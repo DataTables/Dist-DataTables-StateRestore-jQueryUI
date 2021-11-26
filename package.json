@@ -1,0 +1,52 @@
+{
+    "name": "datatables.net-staterestore-jqui",
+    "description": "StateRestore for DataTables with styling for [jQueryUI](http://jqueryui.com/)",
+    "main": "js/stateRestore.jqueryui.js",
+    "style": "css/stateRestore.jqueryui.css",
+    "types": "./types/stateRestore.jqueryui.d.ts",
+    "version": "null",
+    "files": [
+        "css/**/*.css",
+        "js/**/*.js",
+        "types/**/*.d.ts"
+    ],
+    "keywords": [
+        "StateRestore",
+ "stateSave",
+ "state",
+"reload",
+        "jQuery UI",
+ "jQueryUI",
+        "Datatables",
+        "jQuery",
+        "table",
+        "filter",
+        "sort"
+    ],
+    "dependencies": {
+        "datatables.net-staterestore": ">=null",
+        "datatables.net-jqui": ">=1.11.3",
+        "jquery": ">=1.7"
+    },
+    "moduleType": [
+        "globals",
+        "amd",
+        "node"
+    ],
+    "ignore": [
+        "composer.json",
+        "datatables.json",
+        "package.json"
+    ],
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DataTables/Dist-DataTables-StateRestore-jQueryUI.git"
+    }
+}
