@@ -26,7 +26,7 @@
     ],
     "dependencies": {
         "datatables.net-staterestore": "2.0.0",
-        "datatables.net-jqui": "1.11 - 2"
+        "datatables.net-jqui": "^3"
     },
     "author": {
         "name": "SpryMedia Ltd",
