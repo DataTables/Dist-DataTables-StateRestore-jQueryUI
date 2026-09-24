@@ -41,9 +41,10 @@
     "exports": {
         ".": {
             "types": "./types/stateRestore.jqueryui.d.ts",
+            "style": "./css/stateRestore.jqueryui.css",
             "import": "./js/stateRestore.jqueryui.mjs",
-            "default": "./js/stateRestore.jqueryui.mjs",
-            "require": "./js/stateRestore.jqueryui.js"
+            "require": "./js/stateRestore.jqueryui.js",
+            "default": "./js/stateRestore.jqueryui.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
