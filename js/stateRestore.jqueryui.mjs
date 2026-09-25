@@ -1,4 +1,4 @@
-/*! StateRestore jQuery UI styling 2.1.0 for DataTables
+/*! StateRestore jQuery UI styling 2.1.1 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 
